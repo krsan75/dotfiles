@@ -16,7 +16,7 @@ window:
 colors:
 
   primary:
-    background: '0x1d1f21' 
+    background: '0x000000'
 
 font:
 # The normal (roman) font face to use.
@@ -42,15 +42,15 @@ font:
     family: JetBrainsMono Nerd Font
     style: Bold Italic
 
-  offset:
-    y: 5
-
-  glyph_offset:
-    y: 3
+#   offset:
+#     y: 5
+# 
+#   glyph_offset:
+#     y: 3
 
   use_thin_strokes: true 
 
-background_opacity: 0.92
+background_opacity: 0.90
 
 vim: nospell 
 
